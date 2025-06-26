@@ -7,8 +7,8 @@ const char* password = "put yours";
 
 const char* host = "us-east-1-1.aws.cloud2.influxdata.com";
 const int httpsPort = 443;
-const char* org = "g";
-const char* bucket = "esp32_ruqaya";
+const char* org = "put yours";
+const char* bucket = "put yours";
 const char* token = "put yours";
 
 WiFiClientSecure client;
