@@ -2,14 +2,14 @@
 #include <WiFiClientSecure.h>
 #include <time.h>
 
-const char* ssid = "Zayed333";
-const char* password = "TrIpLeRrR";
+const char* ssid = "put yours";
+const char* password = "put yours";
 
 const char* host = "us-east-1-1.aws.cloud2.influxdata.com";
 const int httpsPort = 443;
 const char* org = "g";
 const char* bucket = "esp32_ruqaya";
-const char* token = "usyCho6tWo_CRSbPkR1Foy0Zm9Fqz-udQQpKRREC7rIGDvBf9izm6oyx5MhYeud2nNx42PArsS2FtAji72n9wA==";
+const char* token = "put yours";
 
 WiFiClientSecure client;
 
